@@ -45,9 +45,8 @@ interface Developer {
 const anand: Developer = {
   name: "Anand Mishra",
   location: "Sonipat, Haryana, India",
-  role: "Backend Developer | Bootcamp Learner",
   education: "B.Tech in AI/ML (Year 2)",
-  bootcamp: "Newton School Full-Stack Development",
+  College: "Newton School of technology",
   
   expertise: [
     "JavaScript & ES6+",
@@ -63,15 +62,12 @@ const anand: Developer = {
     "Full-Stack Development",
     "Authentication & Security",
     "Database Design",
-    "Building Real-World Projects",
-    "Problem Solving & DSA"
+    "Building Real-World Projects"
   ],
   
   interests: [
     "Backend Engineering",
     "Fintech Applications",
-    "Job Portal Development",
-    "Cricket",
     "Open Source Contribution"
   ]
 };
