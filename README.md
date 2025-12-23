@@ -142,62 +142,36 @@ const anand: Developer = {
 
 <br/>
 
-## Skill Progression
+## GitHub Contribution Calendar
 
 <div align="center">
 
-```mermaid
-graph LR
-    A[JavaScript ES6+] -->|Proficient| B[Node.js & Express]
-    B -->|Learning| C[Database Design]
-    A -->|Intermediate| D[React]
-    D -->|Learning| E[Next.js]
-    B -->|Intermediate| F[MongoDB & MySQL]
-    B -->|Learning| G[Authentication]
-    
-    style A fill:#58A6FF
-    style B fill:#58A6FF
-    style D fill:#58A6FF
-    style F fill:#3FB950
-```
+<img src="https://ghchart.rshah.org/000000/anand-242003" alt="GitHub Contribution Chart" width="90%"/>
 
 </div>
 
+<br/>
+
+## Coding Stats
+
+<div align="center">
+
 <table>
 <tr>
-<th>Skill Category</th>
-<th>Technologies</th>
-<th>Proficiency</th>
-</tr>
-<tr>
-<td><strong>JavaScript</strong></td>
-<td>ES6+, Async/Await, Promises</td>
-<td><code>████████░░</code> 80%</td>
-</tr>
-<tr>
-<td><strong>Backend Development</strong></td>
-<td>Node.js, Express.js</td>
-<td><code>███████░░░</code> 70%</td>
-</tr>
-<tr>
-<td><strong>Frontend</strong></td>
-<td>React, Next.js</td>
-<td><code>██████░░░░</code> 60%</td>
-</tr>
-<tr>
-<td><strong>Database</strong></td>
-<td>MongoDB, MySQL</td>
-<td><code>██████░░░░</code> 60%</td>
-</tr>
-<tr>
-<td><strong>API Development</strong></td>
-<td>REST APIs, Middleware</td>
-<td><code>███████░░░</code> 70%</td>
-</tr>
-<tr>
-<td><strong>Version Control</strong></td>
-<td>Git, GitHub</td>
-<td><code>████████░░</code> 75%</td>
+<td width="50%" align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=anand242003&theme=dark&hide_border=true&layout=compact&langs_count=6" alt="Coding Time Stats"/>
+
+*Track your coding time with WakaTime*
+
+</td>
+<td width="50%" align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=anand-242003&theme=github_dark" alt="Productive Time"/>
+
+*Most productive coding hours*
+
+</td>
 </tr>
 </table>
 
