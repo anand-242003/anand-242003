@@ -85,7 +85,7 @@ const anand: Developer = {
 
 ### Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,python&theme=dark" alt="Languages"/>
+  <img src="https://skillicons.dev/icons?i=js,html,css,python&theme=dark" alt="Languages"/>
 </p>
 
 ### Backend & Frameworks
@@ -100,12 +100,12 @@ const anand: Developer = {
 
 ### Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,materialui&theme=dark" alt="Frontend"/>
+  <img src="https://skillicons.dev/icons?i=react,tailwind,materialui&theme=dark" alt="Frontend"/>
 </p>
 
 ### DevOps & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,aws,git,github,postman,vercel,vscode,linux&theme=dark" alt="DevOps"/>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vercel,vscode&theme=dark" alt="DevOps"/>
 </p>
 
 ### Authentication & Security
