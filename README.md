@@ -26,8 +26,6 @@
 
 </div>
 
-<br/>
-
 ## About Me
 
 <img align="right" alt="Developer" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
@@ -81,8 +79,6 @@ const anand: Developer = {
 
 <br clear="right"/>
 
-<br/>
-
 ## Tech Stack & Tools
 
 <div align="center">
@@ -121,8 +117,6 @@ const anand: Developer = {
 
 </div>
 
-<br/>
-
 ## GitHub Analytics
 
 <div align="center">
@@ -140,44 +134,17 @@ const anand: Developer = {
 
 </div>
 
-<br/>
-
-## GitHub Contribution Calendar
+## Play Tic Tac Toe with Me! 🎮
 
 <div align="center">
 
-<img src="https://ghchart.rshah.org/000000/anand-242003" alt="GitHub Contribution Chart" width="90%"/>
+<a href="https://anand-242003.github.io/contact-page/game.html">
+  <img src="https://img.shields.io/badge/Play_Tic_Tac_Toe-FF6B6B?style=for-the-badge&logo=gamepad&logoColor=white" alt="Play Game"/>
+</a>
+
+*Challenge yourself! Can you beat the AI?*
 
 </div>
-
-<br/>
-
-## Coding Stats
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%" align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=anand242003&theme=dark&hide_border=true&layout=compact&langs_count=6" alt="Coding Time Stats"/>
-
-*Track your coding time with WakaTime*
-
-</td>
-<td width="50%" align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=anand-242003&theme=github_dark" alt="Productive Time"/>
-
-*Most productive coding hours*
-
-</td>
-</tr>
-</table>
-
-</div>
-
-<br/>
 
 ## Code Philosophy
 
@@ -219,8 +186,6 @@ const anand: Developer = {
 </table>
 
 </div>
-
-<br/>
 
 ## Connect & Support
 
