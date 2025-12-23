@@ -134,7 +134,7 @@ const anand: Developer = {
 
 </div>
 
-## Play Code Defender! 🎮
+## Play Code Defender! 
 
 <div align="center">
 
