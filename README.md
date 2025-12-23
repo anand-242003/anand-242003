@@ -3,7 +3,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=slice&height=200&color=0:434343,100:000000&text=Anand%20Mishra&fontSize=50&fontColor=ffffff&fontAlignY=30&desc=Backend%20Developer%20%7C%20MERN%20Stack&descSize=16&descAlignY=50"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2000&pause=500&color=FFFFFF&center=true&vCenter=true&multiline=false&repeat=true&width=900&height=100&lines=const+developer+%3D+new+Developer(%22Anand%22);+;developer.skills+%3D+%5B%22Node.js%22%2C+%22React%22%2C+%22MongoDB%22%5D;+;developer.code()+%7C%7C+developer.learn();+;console.log(%22Building+amazing+things!%22);" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2300&pause=850&color=FFFFFF&center=true&vCenter=true&repeat=true&width=1000&lines=const+developer+%3D+new+Developer(%22Anand%22);+developer.skills+%3D+%5B%22Node.js%22%2C+%22React%22%2C+%22MongoDB%22%5D;+developer.code()+%7C%7C+developer.learn();+console.log(%22Building+amazing+things!%22);"/>
 </a>
 
 <p>
