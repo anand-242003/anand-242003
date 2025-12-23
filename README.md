@@ -134,15 +134,15 @@ const anand: Developer = {
 
 </div>
 
-## Play Tic Tac Toe with Me! 🎮
+## Play Code Defender! 🎮
 
 <div align="center">
 
 <a href="https://anand-242003.github.io/contact-page/game.html">
-  <img src="https://img.shields.io/badge/Play_Tic_Tac_Toe-FF6B6B?style=for-the-badge&logo=gamepad&logoColor=white" alt="Play Game"/>
+  <img src="https://img.shields.io/badge/Play_Code_Defender-FF6B6B?style=for-the-badge&logo=gamepad&logoColor=white" alt="Play Game"/>
 </a>
 
-*Challenge yourself! Can you beat the AI?*
+*Space Invaders style game! Defend your code from bugs!*
 
 </div>
 
