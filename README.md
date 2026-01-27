@@ -13,6 +13,9 @@
 </p>
 
 <p>
+  <a href="https://anandmishra.dev">
+    <img src="https://img.shields.io/badge/Portfolio-FF5E5B?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+  </a>
   <a href="https://www.linkedin.com/in/anand-mishra-a3a306225">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
@@ -185,6 +188,9 @@ const anand: Developer = {
 ### Let's Build Something Together
 
 <p>
+  <a href="https://anandmishra.dev">
+    <img src="https://img.shields.io/badge/Portfolio-FF5E5B?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+  </a>
   <a href="https://www.linkedin.com/in/anand-mishra-a3a306225">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
@@ -203,8 +209,8 @@ const anand: Developer = {
 
 If you find my projects helpful or interesting, consider supporting me!
 
-<a href="https://anand-242003.github.io/contact-page/">
-  <img src="https://img.shields.io/badge/Let's_Connect-FF5E5B?style=for-the-badge&logo=gmail&logoColor=white" alt="Connect"/>
+<a href="https://anandmishra.dev">
+  <img src="https://img.shields.io/badge/Visit_Portfolio-FF5E5B?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
 </a>
 
 </td>
